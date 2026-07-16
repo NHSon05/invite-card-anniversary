@@ -6,7 +6,7 @@ import h1_2 from '../../assets/IMG_4876.jpg'
 import h1_3 from '../../assets/IMG_4881.JPG'
 
 import h2_1 from '../../assets/IMG_9364.JPG'
-import h2_2 from '../../assets/IMG_9365.JPG'
+import h2_2 from '../../assets/IMG_9365.jpg'
 import h2_3 from '../../assets/IMG_9362.jpg'
 import h2_4 from '../../assets/att.zSO0goATxomPMPZKKoBNhr408bPzDM6lOgzm3_MgDXc.JPG'
 
